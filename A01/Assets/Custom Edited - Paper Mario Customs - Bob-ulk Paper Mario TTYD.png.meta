@@ -1,0 +1,854 @@
+fileFormatVersion: 2
+guid: fe9041499983c0d4aae589b08f75bf08
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2832121560478167576
+    second: Custom Edited - Paper Mario Customs - Bob-ulk Paper Mario TTYD_0
+  - first:
+      213: -7924339524642868144
+    second: Custom Edited - Paper Mario Customs - Bob-ulk Paper Mario TTYD_1
+  - first:
+      213: 172142207130975081
+    second: Custom Edited - Paper Mario Customs - Bob-ulk Paper Mario TTYD_2
+  - first:
+      213: -7236003357382215456
+    second: Custom Edited - Paper Mario Customs - Bob-ulk Paper Mario TTYD_3
+  - first:
+      213: -1929142250575705479
+    second: Custom Edited - Paper Mario Customs - Bob-ulk Paper Mario TTYD_4
+  - first:
+      213: 59678234590828415
+    second: Custom Edited - Paper Mario Customs - Bob-ulk Paper Mario TTYD_5
+  - first:
+      213: -2600907010225968342
+    second: Custom Edited - Paper Mario Customs - Bob-ulk Paper Mario TTYD_6
+  - first:
+      213: -3316168708158227138
+    second: Custom Edited - Paper Mario Customs - Bob-ulk Paper Mario TTYD_7
+  - first:
+      213: -3354575005302462657
+    second: Custom Edited - Paper Mario Customs - Bob-ulk Paper Mario TTYD_8
+  - first:
+      213: -3506096170109766217
+    second: Custom Edited - Paper Mario Customs - Bob-ulk Paper Mario TTYD_9
+  - first:
+      213: 4233808227282246672
+    second: Custom Edited - Paper Mario Customs - Bob-ulk Paper Mario TTYD_10
+  - first:
+      213: -6034893688090296315
+    second: Custom Edited - Paper Mario Customs - Bob-ulk Paper Mario TTYD_11
+  - first:
+      213: -655410566413588461
+    second: Custom Edited - Paper Mario Customs - Bob-ulk Paper Mario TTYD_12
+  - first:
+      213: 7886490318258966748
+    second: Custom Edited - Paper Mario Customs - Bob-ulk Paper Mario TTYD_13
+  - first:
+      213: -174356808876239062
+    second: Custom Edited - Paper Mario Customs - Bob-ulk Paper Mario TTYD_14
+  - first:
+      213: -239517778648393559
+    second: Custom Edited - Paper Mario Customs - Bob-ulk Paper Mario TTYD_15
+  - first:
+      213: 1060860266927111722
+    second: Custom Edited - Paper Mario Customs - Bob-ulk Paper Mario TTYD_16
+  - first:
+      213: 1315564577990355221
+    second: Custom Edited - Paper Mario Customs - Bob-ulk Paper Mario TTYD_17
+  - first:
+      213: 7949057985772352134
+    second: Custom Edited - Paper Mario Customs - Bob-ulk Paper Mario TTYD_18
+  - first:
+      213: -8803420032488098623
+    second: Custom Edited - Paper Mario Customs - Bob-ulk Paper Mario TTYD_19
+  - first:
+      213: -624361112421691167
+    second: Custom Edited - Paper Mario Customs - Bob-ulk Paper Mario TTYD_20
+  - first:
+      213: 1783461783768837351
+    second: Custom Edited - Paper Mario Customs - Bob-ulk Paper Mario TTYD_21
+  - first:
+      213: 1234088082142017819
+    second: Custom Edited - Paper Mario Customs - Bob-ulk Paper Mario TTYD_22
+  - first:
+      213: -7101940885261775746
+    second: Custom Edited - Paper Mario Customs - Bob-ulk Paper Mario TTYD_23
+  - first:
+      213: 2011254475531975491
+    second: Custom Edited - Paper Mario Customs - Bob-ulk Paper Mario TTYD_24
+  - first:
+      213: -5871162419168959839
+    second: Custom Edited - Paper Mario Customs - Bob-ulk Paper Mario TTYD_25
+  - first:
+      213: -3111318742210429986
+    second: Custom Edited - Paper Mario Customs - Bob-ulk Paper Mario TTYD_26
+  - first:
+      213: -6850811579075019433
+    second: Custom Edited - Paper Mario Customs - Bob-ulk Paper Mario TTYD_27
+  - first:
+      213: 618661316463129241
+    second: Custom Edited - Paper Mario Customs - Bob-ulk Paper Mario TTYD_28
+  - first:
+      213: -4952966174946680874
+    second: Custom Edited - Paper Mario Customs - Bob-ulk Paper Mario TTYD_29
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Bob-ulk Paper Mario TTYD_0
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1577
+        width: 204
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec0ddd6db18bb1498b862e3a924ad21
+      internalID: 2832121560478167576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Bob-ulk Paper Mario TTYD_1
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1558
+        width: 565
+        height: 608
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6a56a9e0d26f21499834c9a057db3ff
+      internalID: -7924339524642868144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Bob-ulk Paper Mario TTYD_2
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 1558
+        width: 566
+        height: 587
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba41536c2640c4946894432d71ada288
+      internalID: 172142207130975081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Bob-ulk Paper Mario TTYD_3
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 1558
+        width: 568
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b9e019c5c7a2a8438f727b2d0b1ba1d
+      internalID: -7236003357382215456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Bob-ulk Paper Mario TTYD_4
+      rect:
+        serializedVersion: 2
+        x: 2247
+        y: 1560
+        width: 565
+        height: 597
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 882d3699ecffa524cbacb12d4b1e4370
+      internalID: -1929142250575705479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Bob-ulk Paper Mario TTYD_5
+      rect:
+        serializedVersion: 2
+        x: 2890
+        y: 1557
+        width: 566
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37750b57af416fb4182e6f1857bab1eb
+      internalID: 59678234590828415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Bob-ulk Paper Mario TTYD_6
+      rect:
+        serializedVersion: 2
+        x: 3536
+        y: 1558
+        width: 572
+        height: 561
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a4dc024567f028448feda2a14676553
+      internalID: -2600907010225968342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Bob-ulk Paper Mario TTYD_7
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 891
+        width: 591
+        height: 538
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04599b9edd07f85418a9ea234d4c246c
+      internalID: -3316168708158227138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Bob-ulk Paper Mario TTYD_8
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 893
+        width: 562
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72326d3bb3cfe8449945659424abb73e
+      internalID: -3354575005302462657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Bob-ulk Paper Mario TTYD_9
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 860
+        width: 574
+        height: 569
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd84d9712d8d8b8429bc0143e0ed9bc0
+      internalID: -3506096170109766217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Bob-ulk Paper Mario TTYD_10
+      rect:
+        serializedVersion: 2
+        x: 2183
+        y: 860
+        width: 568
+        height: 557
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 713e18b867e94bc41a6bdfb9efb4e874
+      internalID: 4233808227282246672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Bob-ulk Paper Mario TTYD_11
+      rect:
+        serializedVersion: 2
+        x: 2878
+        y: 860
+        width: 565
+        height: 605
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8125210561998d40b188930dd058a39
+      internalID: -6034893688090296315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Bob-ulk Paper Mario TTYD_12
+      rect:
+        serializedVersion: 2
+        x: 3595
+        y: 860
+        width: 564
+        height: 609
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 801c1929b606fee49a3a6df7f95584ed
+      internalID: -655410566413588461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Bob-ulk Paper Mario TTYD_13
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 149
+        width: 565
+        height: 603
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3c13a9ade4057844894fa7c144a9eaf
+      internalID: 7886490318258966748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Bob-ulk Paper Mario TTYD_14
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 145
+        width: 571
+        height: 622
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4eaf4ff39eff4e4f885a4c8b227f609
+      internalID: -174356808876239062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Bob-ulk Paper Mario TTYD_15
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 683
+        width: 192
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff3d1447783d0e1418c5be0b913dbb8c
+      internalID: -239517778648393559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Bob-ulk Paper Mario TTYD_16
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 404
+        width: 59
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31fee872ca766284d8f0ddaa01982831
+      internalID: 1060860266927111722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Bob-ulk Paper Mario TTYD_17
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 394
+        width: 59
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 044461f1ed4cd5249b6df08d8bff2a62
+      internalID: 1315564577990355221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Bob-ulk Paper Mario TTYD_18
+      rect:
+        serializedVersion: 2
+        x: 1763
+        y: 404
+        width: 59
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 178cea0bac11eaa4fa2ff604b11b5515
+      internalID: 7949057985772352134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Bob-ulk Paper Mario TTYD_19
+      rect:
+        serializedVersion: 2
+        x: 1841
+        y: 394
+        width: 59
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e821fe2b4342714ea28c8afb633d27a
+      internalID: -8803420032488098623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Bob-ulk Paper Mario TTYD_20
+      rect:
+        serializedVersion: 2
+        x: 1936
+        y: 421
+        width: 70
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 692985255fe6ee04eb39b090c828ae20
+      internalID: -624361112421691167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Bob-ulk Paper Mario TTYD_21
+      rect:
+        serializedVersion: 2
+        x: 2021
+        y: 408
+        width: 69
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5975706181262947a6f9391427ae1ff
+      internalID: 1783461783768837351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Bob-ulk Paper Mario TTYD_22
+      rect:
+        serializedVersion: 2
+        x: 2131
+        y: 170
+        width: 444
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 548071b1a6d76af46afea1dcd6f40dfe
+      internalID: 1234088082142017819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Bob-ulk Paper Mario TTYD_23
+      rect:
+        serializedVersion: 2
+        x: 2620
+        y: 259
+        width: 196
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 926119a9e03b40d4ebf91c3b2787b075
+      internalID: -7101940885261775746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Bob-ulk Paper Mario TTYD_24
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 284
+        width: 58
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8379f333f5e57147ba53cee768503fc
+      internalID: 2011254475531975491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Bob-ulk Paper Mario TTYD_25
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 275
+        width: 59
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b34f81404e5bb478d06950b0e12da0
+      internalID: -5871162419168959839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Bob-ulk Paper Mario TTYD_26
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 301
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 915f947207117384385ba6de82ec8f2c
+      internalID: -3111318742210429986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Bob-ulk Paper Mario TTYD_27
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 291
+        width: 68
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 554afcb17d268b04499bc082a3369944
+      internalID: -6850811579075019433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Bob-ulk Paper Mario TTYD_28
+      rect:
+        serializedVersion: 2
+        x: 2143
+        y: 31
+        width: 171
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a11eefeaa5ed8247ad47697518cfad8
+      internalID: 618661316463129241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Bob-ulk Paper Mario TTYD_29
+      rect:
+        serializedVersion: 2
+        x: 2333
+        y: 22
+        width: 171
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da33559dd9c962941b3a3e44fa36be8d
+      internalID: -4952966174946680874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 4a9e8dbbae72ae741810208b754d1a6a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
